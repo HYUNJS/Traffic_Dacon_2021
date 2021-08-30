@@ -1,6 +1,6 @@
 numpy
 pandas
 folium
-selenium
 matplotlib
 holidays
+networkx
